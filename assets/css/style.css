@@ -163,11 +163,9 @@ html {
 /* Slider */
 #slider {
     position: relative;
+    background: url('/assets/img/slider.jpg') top center / cover no-repeat;
     margin-top: 46px;
-}
-
-#slider img {
-    width: 100%;
+    padding-top: 50%;
 }
 
 #slider .text-content {
